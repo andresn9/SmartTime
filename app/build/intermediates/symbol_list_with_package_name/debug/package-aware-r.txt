@@ -776,12 +776,16 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
 id CTRL
+id Cerrar
 id Control
 id FUNCTION
+id Info
 id META
 id Notis
+id Perfil
 id SHIFT
 id SYM
+id Temas
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -850,6 +854,7 @@ id campana4
 id center
 id center_horizontal
 id center_vertical
+id cerrar
 id chains
 id checkBox2
 id checkbox
@@ -888,6 +893,9 @@ id icon_group
 id ifRoom
 id image
 id imageView10
+id imageView11
+id imageView12
+id imageView14
 id info
 id invisible
 id italic
@@ -916,6 +924,7 @@ id packed
 id parent
 id parentPanel
 id percent
+id perfil
 id progress_circular
 id progress_horizontal
 id radio
@@ -966,6 +975,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id temas
 id text
 id text2
 id textSpacerNoButtons
@@ -1060,6 +1070,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 string Personalizar
+string Temas
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1092,13 +1103,16 @@ string attachment_summary_off
 string attachment_summary_on
 string attachment_title
 string autocheck
+string cerrar
 string control
 string copy
 string expand_button_title
+string info
 string messages_header
 string not_set
 string notisText
 string oscuro
+string perfil
 string preference_copied
 string reply_title
 string search_menu_title
