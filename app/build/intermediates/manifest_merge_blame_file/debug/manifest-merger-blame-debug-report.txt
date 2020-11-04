@@ -16,7 +16,7 @@
 12-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:6:18-37
 13
 14    <application
-14-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:8:5-25:19
+14-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:8:5-24:19
 15        android:allowBackup="true"
 15-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:9:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -33,26 +33,20 @@
 22        android:testOnly="true"
 23        android:theme="@style/AppTheme" >
 23-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:14:9-40
-24        <activity
-24-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:15:9-17:72
-25            android:name="com.example.smarttime.SettingsActivity"
-25-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:16:13-45
-26            android:label="@string/title_activity_settings" />
-26-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:17:13-60
-27        <activity android:name="com.example.smarttime.MainActivity" >
-27-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:18:9-24:20
-27-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:18:19-47
-28            <intent-filter>
-28-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:19:13-23:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:20:17-69
-29-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:20:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:22:17-77
-31-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:22:27-74
-32            </intent-filter>
-33        </activity>
-34    </application>
-35
-36</manifest>
+24        <activity android:name="com.example.smarttime.MainActivity" >
+24-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:17:9-23:20
+24-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:17:19-47
+25            <intent-filter>
+25-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:18:13-22:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:19:17-69
+26-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:19:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:21:17-77
+28-->C:\Users\rafac\AndroidStudioProjects\SmartTime\app\src\main\AndroidManifest.xml:21:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

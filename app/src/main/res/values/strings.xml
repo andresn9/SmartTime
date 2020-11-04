@@ -18,6 +18,7 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
 
     <string name="Personalizar">Personalizar</string>
+    <string name="control">Control</string>
     <string name="notisText">Notificaciones</string>
     <string name="oscuro">Tema Oscuro</string>
     <string name="autocheck">Auto Checking</string>
