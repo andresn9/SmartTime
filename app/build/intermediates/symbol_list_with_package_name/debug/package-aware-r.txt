@@ -1026,6 +1026,7 @@ color test_mtrl_calendar_day_selected
 color tooltip_background_dark
 color tooltip_background_light
 color twitter
+color verde
 color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
@@ -1628,6 +1629,9 @@ id chip2
 id chip3
 id chip_group
 id chronometer
+id circuloDone
+id circuloFail
+id circuloSkip
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -1745,6 +1749,9 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
+id nDone
+id nFail
+id nSkip
 id navigation_header_container
 id never
 id noScroll
@@ -1772,6 +1779,7 @@ id peekHeight
 id percent
 id perfil
 id pin
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -1830,6 +1838,9 @@ id stretch
 id submenuarrow
 id submit_area
 id switchWidget
+id tDone
+id tFail
+id tSkip
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1853,6 +1864,7 @@ id textStart
 id textView
 id textView10
 id textView2
+id textView4
 id textView5
 id text_input_end_icon
 id text_input_start_icon
@@ -2023,6 +2035,7 @@ layout preference_widget_switch_compat
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout stats
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -2089,11 +2102,13 @@ string chip_text
 string clear_text_end_icon_content_description
 string control
 string copy
+string done
 string error_icon_content_description
 string expand_button_title
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string fail
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string info
@@ -2153,10 +2168,12 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string perfil
 string preference_copied
+string reading
 string reply_title
 string search_menu_title
 string selected_date
 string signature_title
+string skipped
 string status_bar_notification_info_overflow
 string summary_collapsed_preference_list
 string sync_header
