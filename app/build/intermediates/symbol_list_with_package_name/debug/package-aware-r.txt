@@ -851,6 +851,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -911,8 +912,10 @@ color dim_foreground_material_dark
 color dim_foreground_material_light
 color error_color_material_dark
 color error_color_material_light
+color facebook
 color foreground_material_dark
 color foreground_material_light
+color grey
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -1022,6 +1025,8 @@ color test_mtrl_calendar_day
 color test_mtrl_calendar_day_selected
 color tooltip_background_dark
 color tooltip_background_light
+color twitter
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1599,7 +1604,12 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
+id button2
+id button3
+id button4
 id buttonPanel
+id calendarView2
 id campana
 id campana4
 id cancel_button
@@ -1643,7 +1653,10 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id divider
 id dropdown_menu
+id editTextTextPassword
+id editTextTextPersonName
 id edit_query
 id end
 id enterAlways
@@ -1696,6 +1709,7 @@ id largeLabel
 id left
 id line1
 id line3
+id linearLayout
 id listMode
 id list_item
 id luna
@@ -1838,6 +1852,7 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView10
+id textView2
 id textView5
 id text_input_end_icon
 id text_input_start_icon
@@ -1851,6 +1866,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toolbar
 id top
 id topPanel
 id touch_outside
@@ -1934,6 +1950,7 @@ layout abc_tooltip
 layout activity_main
 layout ajustes
 layout amigos
+layout calendar
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1952,6 +1969,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout expand_button
 layout image_frame
+layout login
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2062,6 +2080,7 @@ string attachment_summary_on
 string attachment_title
 string autocheck
 string bottom_sheet_behavior
+string button
 string cerrar
 string character_counter_content_description
 string character_counter_overflowed_content_description
@@ -2079,6 +2098,12 @@ string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string info
 string item_view_role_description
+string logFacebook
+string logGoogle
+string logIn
+string logInBanner
+string logTwitter
+string mail
 string material_slider_range_end
 string material_slider_range_start
 string messages_header
@@ -2120,6 +2145,7 @@ string mtrl_picker_toggle_to_year_selection
 string not_set
 string notisText
 string oscuro
+string pass
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -2129,6 +2155,7 @@ string perfil
 string preference_copied
 string reply_title
 string search_menu_title
+string selected_date
 string signature_title
 string status_bar_notification_info_overflow
 string summary_collapsed_preference_list
