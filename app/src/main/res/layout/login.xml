@@ -110,7 +110,6 @@
         android:text="@string/logInBanner"
         android:textAlignment="viewStart"
         android:textColor="@color/white"
-        android:textFontSize="20"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
