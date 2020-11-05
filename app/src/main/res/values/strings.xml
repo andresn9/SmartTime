@@ -36,4 +36,6 @@
         <item>Z-A</item>
     </string-array>
 
+    <string name="selected_date">Sábado, 10 de Enero</string>
+
 </resources>
