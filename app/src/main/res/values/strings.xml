@@ -28,5 +28,12 @@
     <string name="cerrar">Cerrar sesion</string>
     <string name="info">Informacion</string>
 
+    <string-array name="filtros_amigos">
+        <item>Ordenar por</item>
+        <item>Más recientes</item>
+        <item>Hábitos</item>
+        <item>A-Z</item>
+        <item>Z-A</item>
+    </string-array>
 
 </resources>
