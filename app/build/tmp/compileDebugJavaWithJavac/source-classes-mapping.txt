@@ -1,0 +1,2 @@
+com/example/smarttime/BuildConfig.java
+ com.example.smarttime.BuildConfig

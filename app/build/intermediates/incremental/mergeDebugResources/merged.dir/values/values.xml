@@ -866,12 +866,12 @@
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
     <string name="info">Informacion</string>
     <string name="item_view_role_description">Tab</string>
-    <string name="logFacebook">LOGIN CON FACEBOOK</string>
-    <string name="logGoogle">LOGIN CON GOOGLE</string>
-    <string name="logIn">LOG IN</string>
+    <string name="logFacebook">REGISTRATE CON FACEBOOK</string>
+    <string name="logGoogle">REGISTRATE CON GOOGLE</string>
+    <string name="logIn">INICIAR SESION</string>
     <string name="logInBanner">Login</string>
-    <string name="logTwitter">LOGIN CON TWITTER</string>
-    <string name="mail">Username or Mail</string>
+    <string name="logTwitter">REGISTRATE CON TWITTER</string>
+    <string name="mail">Usuario o email</string>
     <string description="Content description for the thumb with the maximum value in a Range slider. [CHAR_LIMIT=NONE]" name="material_slider_range_end">Range end, </string>
     <string description="Content description for the thumb with the minimum value in a Range slider. [CHAR_LIMIT=NONE]" name="material_slider_range_start">Range start, </string>
     <string name="messages_header">Messages</string>
@@ -910,10 +910,12 @@
     <string description="a11y string to indicate this button switches the user to choosing a day [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
     <string description="a11y string to indicate this button changes the input mode to a text field [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string description="a11y string to indicate this button switches the user to choosing a year [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="navigation_drawer_close">Cerrar Nav</string>
+    <string name="navigation_drawer_open">Abrir Nav</string>
     <string name="not_set">Not set</string>
     <string name="notisText">Notificaciones</string>
     <string name="oscuro">Tema Oscuro</string>
-    <string name="pass">Password</string>
+    <string name="pass">Contraseña</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>

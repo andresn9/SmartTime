@@ -53,4 +53,9 @@
     <string name="selected_date">Sábado, 10 de Enero</string>
     <string name="reading">Reading</string>
 
+    <!-- Menu nav -->
+
+    <string name="navigation_drawer_open">Abrir Nav</string>
+    <string name="navigation_drawer_close">Cerrar Nav</string>
+
 </resources>

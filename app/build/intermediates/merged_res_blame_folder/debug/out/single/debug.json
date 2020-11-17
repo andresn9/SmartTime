@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_def_avatar_foreground.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\def_avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_def_avatar.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-anydpi-v26\\def_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_def_avatar_round.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-anydpi-v26\\def_avatar_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_def_avatar_foreground.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\def_avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_prueba.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\prueba.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cerrar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\cerrar.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_def_avatar_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xhdpi\\def_avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_def_avatar_foreground.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\def_avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_stats.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perfil.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_def_avatar_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\def_avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_def_avatar_foreground.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxxhdpi\\def_avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_def_avatar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xhdpi\\def_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_amigos.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\amigos.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_def_avatar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\def_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_def_avatar_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\def_avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notis.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\notis.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oscuro.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\oscuro.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_def_avatar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxxhdpi\\def_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_def_avatar_background.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\def_avatar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_def_avatar_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\def_avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_def_avatar_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxxhdpi\\def_avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_ajustes.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\ajustes.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_def_avatar_foreground.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xhdpi\\def_avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_def_avatar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\def_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\color.png"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_def_avatar.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\def_avatar.png"
+    }
+]

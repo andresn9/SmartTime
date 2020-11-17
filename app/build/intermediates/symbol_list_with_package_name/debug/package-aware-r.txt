@@ -1642,6 +1642,7 @@ id container
 id content
 id contentPanel
 id coordinator
+id cuenta
 id custom
 id customPanel
 id cut
@@ -1658,6 +1659,7 @@ id dimensions
 id direct
 id disableHome
 id divider
+id drawer_layout
 id dropdown_menu
 id editTextTextPassword
 id editTextTextPersonName
@@ -1752,6 +1754,12 @@ id multiply
 id nDone
 id nFail
 id nSkip
+id nav_amigos
+id nav_bus
+id nav_dark
+id nav_habitos
+id nav_notis
+id nav_view
 id navigation_header_container
 id never
 id noScroll
@@ -1980,6 +1988,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout expand_button
+layout header
 layout image_frame
 layout login
 layout mtrl_alert_dialog
@@ -2032,6 +2041,7 @@ layout preference_widget_seekbar
 layout preference_widget_seekbar_material
 layout preference_widget_switch
 layout preference_widget_switch_compat
+layout prueba
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2051,6 +2061,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu main_menu
 mipmap def_avatar
 mipmap def_avatar_foreground
 mipmap def_avatar_round
@@ -2157,6 +2168,8 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string navigation_drawer_close
+string navigation_drawer_open
 string not_set
 string notisText
 string oscuro
