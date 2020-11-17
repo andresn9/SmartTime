@@ -9,28 +9,31 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="345dp"
-        android:layout_height="54dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
         android:layout_marginTop="16dp"
         android:autofillHints=""
         android:ems="10"
+        android:hint="@string/mail"
         android:inputType="textPersonName"
-        android:text="@string/mail"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar" />
 
     <EditText
         android:id="@+id/editTextTextPassword"
-        android:layout_width="344dp"
-        android:layout_height="52dp"
-        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:autofillHints=""
+        android:layout_marginHorizontal="20dp"
         android:ems="10"
+        android:hint="@string/pass"
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName"
-        android:autofillHints="" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
 
     <View
         android:id="@+id/divider"
@@ -44,9 +47,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="329dp"
-        android:layout_height="52dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+        android:layout_marginHorizontal="45dp"
         android:text="@string/logIn"
         android:background="@color/grey"
         android:textColor="@color/white"
@@ -56,9 +60,10 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="329dp"
-        android:layout_height="52dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="56dp"
+        android:layout_marginHorizontal="45dp"
         android:text="@string/logFacebook"
         android:textColor="@color/white"
         android:background="@color/facebook"
@@ -68,9 +73,10 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="329dp"
-        android:layout_height="52dp"
-        android:layout_marginTop="3dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginHorizontal="45dp"
         android:text="@string/logTwitter"
         android:textColor="@color/white"
         android:background="@color/twitter"
@@ -80,9 +86,10 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="329dp"
-        android:layout_height="52dp"
-        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginHorizontal="45dp"
         android:text="@string/logGoogle"
         android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
@@ -94,9 +101,6 @@
         android:layout_width="409dp"
         android:layout_height="65dp"
         android:layout_marginTop="4dp"
-        android:background="?attr/colorPrimary"
-        android:minHeight="?attr/actionBarSize"
-        android:theme="?attr/actionBarTheme"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -109,7 +113,7 @@
         android:layout_marginTop="16dp"
         android:text="@string/logInBanner"
         android:textAlignment="viewStart"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
