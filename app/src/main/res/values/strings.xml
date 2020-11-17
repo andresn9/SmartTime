@@ -29,13 +29,13 @@
     <string name="info">Informacion</string>
 
 
-    <string name="mail">Username or Mail</string>
-    <string name="pass">Password</string>
-    <string name="logFacebook">LOGIN CON FACEBOOK</string>
-    <string name="logTwitter">LOGIN CON TWITTER</string>
-    <string name="logGoogle">LOGIN CON GOOGLE</string>
+    <string name="mail">Usuario o email</string>
+    <string name="pass">Contraseña</string>
+    <string name="logFacebook">REGISTRATE CON FACEBOOK</string>
+    <string name="logTwitter">REGISTRATE CON TWITTER</string>
+    <string name="logGoogle">REGISTRATE CON GOOGLE</string>
     <string name="button">Button</string>
-    <string name="logIn">LOG IN</string>
+    <string name="logIn">INICIAR SESION</string>
     <string name="logInBanner">Login</string>
 
     <string name="done">Done</string>
