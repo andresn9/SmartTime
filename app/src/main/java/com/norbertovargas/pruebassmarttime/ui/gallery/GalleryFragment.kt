@@ -12,7 +12,7 @@ import com.norbertovargas.pruebassmarttime.R
 
 class GalleryFragment : Fragment() {
 
-    private lateinit var galleryViewModel: AjustesViewModel
+    private lateinit var galleryViewModel: GalleryViewModel
 
     override fun onCreateView(
             inflater: LayoutInflater,
@@ -20,7 +20,7 @@ class GalleryFragment : Fragment() {
             savedInstanceState: Bundle?
     ): View? {
         galleryViewModel =
-                ViewModelProvider(this).get(AjustesViewModel::class.java)
+                ViewModelProvider(this).get(GalleryViewModel::class.java)
         val root = inflater.inflate(R.layout.calendar, container, false)
 
         return root

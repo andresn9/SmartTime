@@ -1,19 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
         "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -110,10 +110,6 @@
     {
         "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "C:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",

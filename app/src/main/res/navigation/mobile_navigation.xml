@@ -14,18 +14,13 @@
     <fragment
         android:id="@+id/nav_gallery"
         android:name="com.norbertovargas.pruebassmarttime.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/menu_calendar"
         tools:layout="@layout/calendar" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.norbertovargas.pruebassmarttime.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/menu_ajustes"
         tools:layout="@layout/login" />
-
-    <fragment
-        android:id="@+id/nav_ajustes"
-        android:name="com.norbertovargas.pruebassmarttime.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/ajustes" />
+    />
 </navigation>
