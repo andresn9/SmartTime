@@ -22,14 +22,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="7dp"
             android:layout_marginTop="10dp"
             android:fontFamily="monospace"
             android:text="@string/Personalizar"
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textColor="#000000"
             android:textSize="14sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:layout_marginLeft="7dp" />
 
         <LinearLayout
             android:id="@+id/Notis"
@@ -45,7 +45,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:contentDescription="@string/notisText"
-                android:src="@drawable/notis" />
+                />
 
             <TextView
                 android:id="@+id/notiText"
@@ -78,7 +78,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:contentDescription="@string/oscuro"
-                android:src="@drawable/oscuro" />
+                />
 
             <TextView
                 android:id="@+id/textView5"
@@ -111,7 +111,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:contentDescription="@string/autocheck"
-                android:src="@drawable/check" />
+                />
 
             <TextView
                 android:id="@+id/notiText2"
@@ -150,7 +150,6 @@
             android:id="@+id/textView10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="7dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
             android:fontFamily="monospace"
@@ -158,7 +157,8 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Body2"
             android:textColor="#000000"
             android:textSize="14sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:layout_marginLeft="7dp" />
 
         <LinearLayout
             android:id="@+id/Perfil"
@@ -173,7 +173,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/perfil"
-                android:src="@drawable/perfil" />
+                 />
 
             <TextView
                 android:id="@+id/perfil"
@@ -199,7 +199,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/Temas"
-                android:src="@drawable/color" />
+                />
 
             <TextView
                 android:id="@+id/temas"
@@ -225,7 +225,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/cerrar"
-                android:src="@drawable/cerrar" />
+                />
 
             <TextView
                 android:id="@+id/cerrar"
@@ -251,7 +251,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/info"
-                android:src="@drawable/info" />
+               />
 
             <TextView
                 android:id="@+id/info"

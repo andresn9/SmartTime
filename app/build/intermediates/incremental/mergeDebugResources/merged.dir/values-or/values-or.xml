@@ -29,6 +29,8 @@
     <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"ସଂକୁଚିତ କରନ୍ତୁ"</string>
     <string msgid="3209159573327985035" name="copy">"କପି କରନ୍ତୁ"</string>
     <string msgid="1234962710353108940" name="expand_button_title">"ଅଧିକ ଉନ୍ନତ"</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"ଉପରକୁ ନାଭିଗେଟ୍‍ କରନ୍ତୁ"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"ନାଭିଗେସନ୍‍ ଡ୍ରୟର୍‍ ଖୋଲନ୍ତୁ"</string>
     <string msgid="478774118347071097" name="not_set">"ସେଟ୍ ହୋଇନାହିଁ"</string>
     <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" କ୍ଲିପବୋର୍ଡକୁ କପି ହୋ‍ଇଗଲା।"</string>
     <string msgid="730395136688082741" name="search_menu_title">"ସର୍ଚ୍ଚ କରନ୍ତୁ"</string>

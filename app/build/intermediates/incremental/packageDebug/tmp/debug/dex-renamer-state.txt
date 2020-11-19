@@ -1,4 +1,4 @@
-#Tue Nov 17 22:08:38 CET 2020
+#Thu Nov 19 16:54:15 CET 2020
 base.0=C\:\\Users\\rafac\\AndroidStudioProjects\\SmartTime\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

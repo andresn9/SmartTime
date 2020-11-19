@@ -29,6 +29,8 @@
     <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"ಕುಗ್ಗಿಸಿ"</string>
     <string msgid="3209159573327985035" name="copy">"ನಕಲಿಸಿ"</string>
     <string msgid="1234962710353108940" name="expand_button_title">"ಸುಧಾರಿತ"</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"ನ್ಯಾವಿಗೇಶನ್ ಡ್ರಾವರ್ ಅನ್ನು ತೆರೆಯಿರಿ"</string>
     <string msgid="478774118347071097" name="not_set">"ಹೊಂದಿಸಿಲ್ಲ"</string>
     <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" ಅನ್ನು ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ."</string>
     <string msgid="730395136688082741" name="search_menu_title">"ಹುಡುಕಿ"</string>

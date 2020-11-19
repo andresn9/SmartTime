@@ -29,6 +29,8 @@
     <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"সঙ্কুচিত করুন"</string>
     <string msgid="3209159573327985035" name="copy">"কপি করুন"</string>
     <string msgid="1234962710353108940" name="expand_button_title">"উন্নত"</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"উপরে নেভিগেট করুন"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"নেভিগেশন ড্রয়ার খুলুন"</string>
     <string msgid="478774118347071097" name="not_set">"সেট করা হয়নি"</string>
     <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" ক্লিপবোর্ডে লিঙ্কটি কপি করা হয়েছে।"</string>
     <string msgid="730395136688082741" name="search_menu_title">"সার্চ করুন"</string>

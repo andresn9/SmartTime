@@ -1,2 +1,2 @@
-com/example/smarttime/BuildConfig.java
- com.example.smarttime.BuildConfig
+com/norbertovargas/pruebassmarttime/BuildConfig.java
+ com.norbertovargas.pruebassmarttime.BuildConfig
