@@ -135,7 +135,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@color/grey"
-            android:onClick="iniciarSesion"
+            android:onClick="iniciar"
             android:text="@string/logIn"
             android:textColor="@color/white"
             android:layout_marginHorizontal="10dp"/>

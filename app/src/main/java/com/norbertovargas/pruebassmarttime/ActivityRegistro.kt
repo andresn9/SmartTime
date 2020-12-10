@@ -56,7 +56,6 @@ class ActivityRegistro : AppCompatActivity() {
         datosAInsertar.put(SmartTimeOpenHelper.correoTablaUsuario,campoCorreo.text.toString())
         datosAInsertar.put(SmartTimeOpenHelper.contraseñaTablaUsuario,campoContraseña.text.toString())
         if(database.insert(SmartTimeOpenHelper.tablaUsuario,null,datosAInsertar)>0){
-            Toast.makeText(this,R.string.usuarioInsertado, Toast.LENGTH_LONG).show()
             val intent: Intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
         }else{
