@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147795977141",
+    "project_id": "smarttime-fcdb3",
+    "storage_bucket": "smarttime-fcdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147795977141:android:29da4227055c18cc4caffc",
+        "android_client_info": {
+          "package_name": "com.example.smarttime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147795977141-9j9inalkpbe79gfmgiiod0ecnu1rup8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttime",
+            "certificate_hash": "ca23b6ed79e198f7d42d11eb5409371a980505f8"
+          }
+        },
+        {
+          "client_id": "147795977141-81gch96qecmold3pro1gib549pdv0pto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkO7idzOJOYDq-rGnQAH0Dc_Lq_AEidqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147795977141-81gch96qecmold3pro1gib549pdv0pto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

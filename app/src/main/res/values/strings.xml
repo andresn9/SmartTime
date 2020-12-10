@@ -26,6 +26,8 @@
     <string name="cerrar">Cerrar sesion</string>
     <string name="info">Informacion</string>
 
+    <string name="registro">Registrarse</string>
+
 
     <string name="mail">Usuario o email</string>
     <string name="pass">Contraseña</string>
@@ -59,4 +61,9 @@
     <string name="menu_home">Progreso</string>
     <string name="menu_calendar">Calendar</string>
     <string name="menu_ajustes">Ajustes</string>
+    <string name="usuarioInsertado">Usuario insertado</string>
+    <string name="errorInsertandoUsuario">Error</string>
+    <string name="usuario">Usuario</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="confirmar">Confirmar</string>
 </resources>
