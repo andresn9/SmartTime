@@ -27,7 +27,7 @@ class SmartTimeOpenHelper(val contexto: Context):
 
     fun comprobarUsuario(email: String, password:String): Boolean{
         val db = writableDatabase
-        val query = "select * from $tablaUsuario where 'aaa' = $correoTablaUsuario and 'aaa' = $contraseñaTablaUsuario"
+        val query = "select * from usuario where correo = '$email' and contraseña = '$password'"
         val cursor= db.rawQuery(query, null)
         if (cursor.count<=0) {
             cursor.close()
