@@ -22,10 +22,10 @@ class ActivityRegistro : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.registrarse)
-        refrescarRecyclerDatos()
+        refrescarDatos()
     }
 
-    fun refrescarRecyclerDatos() {
+    fun refrescarDatos() {
         val usuarios: ArrayList<Usuario> = arrayListOf<Usuario>()
 
         var cursor: Cursor = database.query(
@@ -62,7 +62,7 @@ class ActivityRegistro : AppCompatActivity() {
             Toast.makeText(this,R.string.errorInsertandoUsuario, Toast.LENGTH_LONG).show()
         }
 
-        refrescarRecyclerDatos()
+        refrescarDatos()
 
 
     }

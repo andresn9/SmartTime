@@ -1,12 +1,17 @@
 package com.norbertovargas.pruebassmarttime
 
 import android.content.Intent
+import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.os.Bundle
 import android.view.View
 import android.widget.EditText
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import basededatos.SmartTimeOpenHelper
+import basededatos.SmartTimeOpenHelper.Companion.tablaUsuario
+import clases.Usuario
+import kotlinx.android.synthetic.main.login.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -14,22 +19,51 @@ class MainActivity : AppCompatActivity() {
     val campoUsuario: EditText by lazy{ findViewById<EditText>(R.id.usuario)}
     val campoCorreo: EditText by lazy{ findViewById<EditText>(R.id.correo)}
     val campoContraseña: EditText by lazy{ findViewById<EditText>(R.id.contraseña)}
+    lateinit var handler:SmartTimeOpenHelper
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login)
 
+        handler = SmartTimeOpenHelper(this)
+        refrescarDatos()
     }
 
+    fun refrescarDatos() {
+        val usuarios: ArrayList<Usuario> = arrayListOf<Usuario>()
 
+        var cursor: Cursor = database.query(
+            SmartTimeOpenHelper.tablaUsuario, null, null,
+            null, null, null, SmartTimeOpenHelper.idTablaUsuario + " desc"
+        )
+        cursor.moveToFirst()
+        while (!cursor.isAfterLast) {
+            val id: Int = cursor.getInt(cursor.getColumnIndex(SmartTimeOpenHelper.idTablaUsuario))
+            val nombre: String =
+                cursor.getString(cursor.getColumnIndex(SmartTimeOpenHelper.nombreTablaUsuario))
+            val correo: String =
+                cursor.getString(cursor.getColumnIndex(SmartTimeOpenHelper.correoTablaUsuario))
+            val contraseña: String =
+                cursor.getString(cursor.getColumnIndex(SmartTimeOpenHelper.contraseñaTablaUsuario))
+
+            usuarios.add(Usuario(id, nombre, correo, contraseña))
+
+            cursor.moveToNext()
+        }
+    }
     fun iniciar(view: View) {
-        val intent: Intent = Intent(this, ActivityInicio::class.java)
-        startActivity(intent)
+        if(handler.comprobarUsuario(usuario.text.toString(), contraseña.text.toString())){
+            val intent: Intent = Intent(this, ActivityInicio::class.java)
+            startActivity(intent)
+        }
+        else
+            Toast.makeText(this, "No", Toast.LENGTH_LONG).show()
 
     }
 
     fun registrarse(view: View) {
-        val intent: Intent = Intent(this,ActivityRegistro::class.java)
+
+        val intent: Intent = Intent(this, ActivityRegistro::class.java)
         startActivity(intent)
 
     }
