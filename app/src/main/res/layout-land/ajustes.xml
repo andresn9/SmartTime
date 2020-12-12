@@ -47,7 +47,8 @@
                     android:layout_height="50dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:contentDescription="@string/notisText" />
+                    android:contentDescription="@string/notisText"
+                    android:src="@drawable/notis"/>
 
                 <TextView
                     android:id="@+id/notiText"
@@ -59,7 +60,7 @@
 
                 <CheckBox
                     android:id="@+id/checkbox"
-                    android:layout_width="23dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1" />
@@ -79,7 +80,8 @@
                     android:layout_height="50dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:contentDescription="@string/oscuro" />
+                    android:contentDescription="@string/oscuro"
+                    android:src="@drawable/oscuro"/>
 
                 <TextView
                     android:id="@+id/textView5"
@@ -111,7 +113,8 @@
                     android:layout_height="50dp"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:contentDescription="@string/autocheck" />
+                    android:contentDescription="@string/autocheck"
+                    android:src="@drawable/check"/>
 
                 <TextView
                     android:id="@+id/notiText2"
@@ -172,11 +175,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:contentDescription="@string/perfil" />
+                    android:contentDescription="@string/perfil"
+                    android:src="@drawable/ajustes"/>
 
                 <TextView
                     android:id="@+id/perfil"
-                    android:layout_width="82dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
@@ -194,14 +198,15 @@
 
                 <ImageView
                     android:id="@+id/imageView11"
-                    android:layout_width="1dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="66dp"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:contentDescription="@string/Temas" />
+                    android:contentDescription="@string/Temas"
+                    android:src="@drawable/temas" />
 
                 <TextView
                     android:id="@+id/temas"
-                    android:layout_width="82dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
@@ -219,10 +224,11 @@
 
                 <ImageView
                     android:id="@+id/imageView12"
-                    android:layout_width="1dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:contentDescription="@string/cerrar" />
+                    android:contentDescription="@string/cerrar"
+                    android:src="@drawable/salir" />
 
                 <TextView
                     android:id="@+id/cerrar"
@@ -244,14 +250,15 @@
 
                 <ImageView
                     android:id="@+id/imageView14"
-                    android:layout_width="1dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:contentDescription="@string/info" />
+                    android:contentDescription="@string/info"
+                    android:src="@drawable/info" />
 
                 <TextView
                     android:id="@+id/info"
-                    android:layout_width="78dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:layout_gravity="center"
