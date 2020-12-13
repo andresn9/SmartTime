@@ -30,9 +30,9 @@ class AmigosAdapter(var mcontext: Context, var contactList: List<Contact>) : Rec
         }
 
         if (contact.isOnline){
-            holder.status.text = R.string.online.toString()
+            holder.status.text = mcontext.getString(R.string.online)
         }else {
-            holder.status.text = R.string.offline.toString()
+            holder.status.text = mcontext.getString(R.string.offline)
         }
 
         if (contact.isUnread) {
