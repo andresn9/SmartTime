@@ -22,6 +22,14 @@ class ActivityRegistro : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.registrarse)
+        var bundle: Bundle? =this.intent.extras
+        val correoTexto:String?= bundle?.getString("correo")
+        val contraseñaTexto:String?= bundle?.getString("contraseña")
+        val campoCorreo = findViewById<EditText>(R.id.correo)
+        campoCorreo.setText(correoTexto)
+        val campoContraseña = findViewById<EditText>(R.id.contraseña)
+        campoContraseña.setText(contraseñaTexto)
+
         refrescarDatos()
     }
 
