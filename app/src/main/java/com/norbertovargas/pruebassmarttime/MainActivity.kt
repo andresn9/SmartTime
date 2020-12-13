@@ -16,7 +16,6 @@ import kotlinx.android.synthetic.main.login.usuario
 class MainActivity : AppCompatActivity() {
 
 
-
     val database: SQLiteDatabase by lazy{ SmartTimeOpenHelper(this).writableDatabase }
     val campoUsuario: EditText by lazy{ findViewById<EditText>(R.id.usuario)}
     val campoCorreo: EditText by lazy{ findViewById<EditText>(R.id.correo)}
