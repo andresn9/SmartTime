@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartTime">
-        <activity android:name=".ActivityInicio" ></activity>
-        <activity android:name=".ActivityRegistro" ></activity>
-        <activity android:name=".StatsActivity" ></activity>
+        <activity android:name=".ActivityAmigos"/>
+        <activity android:name=".ActivityInicio" />
+        <activity android:name=".ActivityRegistro" />
+        <activity android:name=".StatsActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
