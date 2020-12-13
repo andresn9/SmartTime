@@ -42,14 +42,6 @@
     <string name="skipped">Skipped</string>
     <string name="fail">Fail</string>
 
-    <string-array name="filtros_amigos">
-        <item>Ordenar por</item>
-        <item>Más recientes</item>
-        <item>Hábitos</item>
-        <item>A-Z</item>
-        <item>Z-A</item>
-    </string-array>
-
     <string name="selected_date">Sábado, 10 de Enero</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -67,4 +59,8 @@
     <string name="correo">Correo electrónico</string>
     <string name="confirmar">Confirmar</string>
     <string name="amigos">Amigos</string>
+    <string name="online">En Línea</string>
+    <string name="offline">Offline</string>
+    <string name="nombre">Nombre</string>
+    <string name="importarContactos">Importar Contactos</string>
 </resources>
