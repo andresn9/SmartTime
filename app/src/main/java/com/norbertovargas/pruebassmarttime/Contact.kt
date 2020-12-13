@@ -1,63 +1,23 @@
-package com.norbertovargas.pruebassmarttime;
+package com.norbertovargas.pruebassmarttime
 
-import android.net.Uri;
+import android.net.Uri
 
-public class Contact {
-    private String name;
-    private Uri photo;
-    private String lastMsg;
-    private boolean online = false;
-    private boolean unread = false;
+class Contact {
+    var name: String
+    var photo: Uri
+    var lastMsg: String? = null
+    var isOnline = false
+    var isUnread = false
 
-    public Contact(String name, Uri photo) {
-        this.name = name;
-        this.photo = photo;
+    constructor(name: String, photo: Uri) {
+        this.name = name
+        this.photo = photo
     }
 
-    public Contact(String name, Uri photo, String lastMsg, boolean online) {
-        this.name = name;
-        this.photo = photo;
-        this.lastMsg = lastMsg;
-        this.online = online;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Uri getPhoto() {
-        return photo;
-    }
-
-    public void setPhoto(Uri photo) {
-        this.photo = photo;
-    }
-
-    public String getLastMsg() {
-        return lastMsg;
-    }
-
-    public void setLastMsg(String lastMsg) {
-        this.lastMsg = lastMsg;
-    }
-
-    public boolean isOnline() {
-        return online;
-    }
-
-    public void setOnline(boolean online) {
-        this.online = online;
-    }
-
-    public boolean isUnread() {
-        return unread;
-    }
-
-    public void setUnread(boolean unread) {
-        this.unread = unread;
+    constructor(name: String, photo: Uri, lastMsg: String?, online: Boolean) {
+        this.name = name
+        this.photo = photo
+        this.lastMsg = lastMsg
+        isOnline = online
     }
 }

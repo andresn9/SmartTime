@@ -1,0 +1,2 @@
+com/norbertovargas/pruebassmarttime/BuildConfig.java
+ com.norbertovargas.pruebassmarttime.BuildConfig
