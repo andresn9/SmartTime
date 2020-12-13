@@ -9,12 +9,11 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import basededatos.SmartTimeOpenHelper
-import basededatos.SmartTimeOpenHelper.Companion.tablaUsuario
 import clases.Usuario
-import kotlinx.android.synthetic.main.login.*
+import kotlinx.android.synthetic.main.login.contraseña
+import kotlinx.android.synthetic.main.login.usuario
 
 class MainActivity : AppCompatActivity() {
-
 
 
     val database: SQLiteDatabase by lazy{ SmartTimeOpenHelper(this).writableDatabase }
@@ -26,6 +25,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login)
+
 
         handler = SmartTimeOpenHelper(this)
         refrescarDatos()
@@ -73,9 +73,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun registrarse(view: View) {
-
         val intent: Intent = Intent(this, ActivityRegistro::class.java)
+        var bundle:Bundle= Bundle()
+        bundle.putString("correo",usuario.text.toString())
+        bundle.putString("contraseña",contraseña.text.toString())
+        intent.putExtras(bundle)
         startActivity(intent)
-
     }
 }
