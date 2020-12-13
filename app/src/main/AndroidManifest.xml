@@ -11,6 +11,7 @@
         android:theme="@style/Theme.SmartTime">
         <activity android:name=".ActivityInicio" ></activity>
         <activity android:name=".ActivityRegistro" ></activity>
+        <activity android:name=".StatsActivity" ></activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

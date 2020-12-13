@@ -51,7 +51,6 @@ class ActivityRegistro : AppCompatActivity() {
                 cursor.getString(cursor.getColumnIndex(SmartTimeOpenHelper.contraseñaTablaUsuario))
 
             usuarios.add(Usuario(id, nombre, correo, contraseña))
-
             cursor.moveToNext()
         }
     }

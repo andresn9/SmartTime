@@ -15,6 +15,8 @@ import kotlinx.android.synthetic.main.login.usuario
 
 class MainActivity : AppCompatActivity() {
 
+
+
     val database: SQLiteDatabase by lazy{ SmartTimeOpenHelper(this).writableDatabase }
     val campoUsuario: EditText by lazy{ findViewById<EditText>(R.id.usuario)}
     val campoCorreo: EditText by lazy{ findViewById<EditText>(R.id.correo)}
@@ -52,14 +54,23 @@ class MainActivity : AppCompatActivity() {
             cursor.moveToNext()
         }
     }
+
     fun iniciar(view: View) {
         if(handler.comprobarUsuario(usuario.text.toString(), contraseña.text.toString())){
-            val intent: Intent = Intent(this, ActivityInicio::class.java)
+            var intent: Intent = Intent(this, ActivityInicio::class.java)
+
+            var bun:Bundle=Bundle()
+
+            val campoTexto:EditText=findViewById(R.id.usuario)
+            bun.putString ("correo", campoTexto.text.toString())
+            intent.putExtras(bun)
             startActivity(intent)
+
+            Toast.makeText(this,R.string.errorInsertandoUsuario, Toast.LENGTH_LONG).show()
+
         }
         else
-            Toast.makeText(this, "No", Toast.LENGTH_LONG).show()
-
+            Toast.makeText(this,R.string.errorInsertandoUsuario, Toast.LENGTH_LONG).show()
     }
 
     fun registrarse(view: View) {
